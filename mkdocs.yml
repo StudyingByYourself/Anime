@@ -1,6 +1,7 @@
-site_name: 动漫家园
+site_name: Data Structure And Algorithm
 nav:
-  - 一. 一人之下: 
+  - 一. 介绍: index.md
+  - 二. 一人之下: 
       - 1. yiren001: yiren001.md
 theme:
   name: 'material'
