@@ -1,6 +1,6 @@
 # 一人之下001
-![](https://s2.ax1x.com/2019/03/14/AASb5V.jpg)
-![](https://s2.ax1x.com/2019/03/14/AASO8U.jpg)
+![](https://github.com/StudyingByYourself/image/raw/master/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B-0001/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B-0001-01.jpg)
+![](https://github.com/StudyingByYourself/image/raw/master/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B-0001/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B-0001-02.jpg)
 ![](https://s2.ax1x.com/2019/03/14/AAS7Eq.jpg)
 ![](https://s2.ax1x.com/2019/03/14/AASIDs.jpg)
 ![](https://s2.ax1x.com/2019/03/14/AASobn.jpg)

@@ -1,8 +1,27 @@
-site_name: Data Structure And Algorithm
+site_name: anime
 nav:
   - 一. 介绍: index.md
   - 二. 一人之下: 
       - 1. yiren001: yiren001.md
+      - 2. yiren002: yiren002.md
+      - 3. yiren003: yiren003.md
+      - 4. yiren004: yiren004.md
+      - 5. yiren005: yiren005.md
+      - 6. yiren006: yiren006.md
+      - 7. yiren007: yiren007.md
+      - 8. yiren008: yiren008.md
+      - 9. yiren009: yiren009.md
+      - 10. yiren010: yiren010.md
+      - 11. yiren011: yiren011.md
+      - 12. yiren012: yiren012.md
+      - 13. yiren013: yiren013.md
+      - 14. yiren014: yiren014.md
+      - 15. yiren015: yiren015.md
+      - 16. yiren016: yiren016.md
+      - 17. yiren017: yiren017.md
+      - 18. yiren018: yiren018.md
+      - 19. yiren019: yiren019.md
+      - 20. yiren020: yiren020.md
 theme:
   name: 'material'
   font: 
