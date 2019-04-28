@@ -28,13 +28,13 @@
 
 ![](https://github.com/StudyingByYourself/image/raw/master/laborDay/day2.jpg)
 
-景点1：苏州博物馆  网上预约
+景点1：拙政园
+
+景点2：苏州博物馆(11:00-12:00)
 
 <center>
 	![](https://github.com/StudyingByYourself/image/raw/master/laborDay/subo.jpg)
 </center>
-
-景点2：拙政园
 
 景点3：平江路历史文化街区
 
@@ -58,7 +58,7 @@
 
 斜塘老街
 
-当天返回
+当天返回(苏州汽车南站19:00)
 
 ## 美食聚集地
 
